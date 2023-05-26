@@ -1,8 +1,7 @@
-
-i/*
-     * File: 8-print_base16.c
-     *  * Auth: Brennan D Baraban
-     *   */
+/*
+ *  * File: 8-print_base16.c
+ *   * Auth: Brennan D Baraban
+ *    */
 
 #include <stdio.h>
 
