@@ -1,2 +1,1 @@
-# holbertonschool-low_level_programming
-this is for c learning 
+# this is the second readme fiel  
