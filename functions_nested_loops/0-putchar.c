@@ -1,19 +1,21 @@
+#include <main.h>
+
 /**
- * file name: 0-putcar.c
- * autho: arif paiman
+ * we are goingto print 
+ * the putchar afet 
+ * we created the header file
 */
-#include <stdio.h>
 
-int main (void)
+int main(void)
 
-{ char putchar;
-	 printf("putchar");
-	 return (0);
-}
-
-
-
-
-
-
-
+{
+	_putchar('_');
+	_putchar(' ');
+	        _putchar('p');
+		        _putchar('u'); 
+			        _putchar('t'); 
+				        _putchar('c'); 
+					        _putchar('h'); 
+						        _putchar('a'); 
+							        _putchar('r'); 
+								       return(0);

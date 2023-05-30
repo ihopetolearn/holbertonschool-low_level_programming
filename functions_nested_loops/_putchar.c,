@@ -1,0 +1,7 @@
+#include <main.h>
+#include <unistd.h>
+
+/**
+* the putchar write the character c to stdout
+*the character to the print 
+
