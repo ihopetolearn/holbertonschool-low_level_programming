@@ -1,0 +1,22 @@
+/* this is the top wec designer 
+*we can include all things 
+*and we can improve day by day
+*/
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+int main (void)
+
+{
+int n;
+	srand(time(0));
+	if ((n%10)>5);
+	printf("the last digit %d is greather than %d"\n, n,n%10);
+	else if ((n%10)=>5);
+	printf("the last digit %d is less than %d"\n. n.n%10)'
+	else ((n%10)=0)
+	printf("the last degit %d is zero %d"\n ,n,n%10)'
+	return(o)
+
+
+}
