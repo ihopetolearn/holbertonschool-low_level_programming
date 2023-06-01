@@ -1,3 +1,6 @@
+/**
+ *  * more_numbers - Prints the numbers 0-14 ten times.
+ *   */
 #include "main.h"
 
 /**
