@@ -1,12 +1,12 @@
-/**
- *  * more_numbers - Prints the numbers 0-14 ten times.
- *   */
-#include "main.h"
 
 /**
  * file: 5-more numbers.c
  * autho: arif paiman
  *  * more_numbers - Prints the numbers 0-14 ten times
+*/
+#include "main.h"
+/**
+ * more_numbers - Prints the numbers 0-14 ten times.
 */
 
 void more_numbers(void)
